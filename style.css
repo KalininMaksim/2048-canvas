@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+}
+
+#score{
+    text-align: center
+    
+}
+
+.button{
+    text-align: center;
+    position: fixed;
+    top: 85px;
+    left: 40%;
+    
+}
+
+.clear{
+    clear: both;
+}
+#size-bloc{
+    margin-left: -50px;
+    padding-left: 50%;
+}
+
+#size-title{
+    float: left;
+    margin-top: 0px;
+}
+
+#size{
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+
+#canvas{
+    background-color: rgb(238, 234, 178);
+}
+
+#canvas-block{
+    margin-left: -250px;
+    padding-left: 50%;
+}
